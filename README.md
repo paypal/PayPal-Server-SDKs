@@ -2,7 +2,7 @@
 ## Introduction
 ### Important Notes
 
-- **Available Features:** This SDK currently contains only 3 of PayPal's API endpoints. Additional endpoints and functionality will be added in the future.
+- **Available Features:** This SDK currently contains only 5 of PayPal's API endpoints. Additional endpoints and functionality will be added in the future.
 
 ### SDK Languages
 
