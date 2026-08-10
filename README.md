@@ -15,7 +15,5 @@ The PayPal Server SDK provides integration access to the PayPal REST APIs. There
 - [Ruby Server SDK](https://github.com/paypal/PayPal-Ruby-Server-SDK)
 - [TypeScript Server SDK](https://github.com/paypal/PayPal-TypeScript-Server-SDK)
 
-Any feedback or issues can be posted to the repositories for the relevant language.
-
 ### Developer Documentation
 The official developer documentation can be found on the PayPal Developer portal: [PayPal Developer - Server SDK](https://developer.paypal.com/serversdk/http/getting-started/how-to-get-started/)
